@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is flu and how is it treated?",
+    "answer": "Influenza is a viral respiratory infection. Treatment is often supportive: rest, fluids, antipyretics. Antivirals may be prescribed early by a physician for severe cases.",
+    "tags": ["flu", "influenza", "virus"]
+  },
+  {
+    "question": "Is paracetamol safe?",
+    "answer": "Paracetamol is generally safe when taken within recommended doses. Do not exceed daily limits and consider its presence in combination drugs.",
+    "tags": ["paracetamol", "acetaminophen", "fever reducer"]
+  },
+  {
+    "question": "When should I see a doctor for cough?",
+    "answer": "If cough lasts longer than 2–3 weeks, or with high fever, hemoptysis, shortness of breath, or chest pain — seek medical advice.",
+    "tags": ["cough", "symptoms", "when to see a doctor"]
+  }
+]
+
