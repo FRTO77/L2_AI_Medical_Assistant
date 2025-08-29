@@ -12,7 +12,6 @@ Important: This is NOT medical advice. Always consult a healthcare professional 
 
 ## Quickstart
 ```powershell
-cd C:\Users\Nemo\Documents\LangChain
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r AI_Medical_Assistant\requirements.txt
@@ -66,3 +65,4 @@ Notes:
 - Keep secrets in `.env`; never commit them.
 - LLM outputs are generative; verify important facts.
 - This tool does not replace professional medical advice.
+
